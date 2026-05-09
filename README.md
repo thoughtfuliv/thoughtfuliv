@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lívia! I'm a brazilian 20yo girl. 7rd semester of Industrial Engineering.
+- 👋 Hi, I’m Lívia! I'm a brazilian 23yo girl and a Industrial Engineer.
 - 👀 I’m interested in watching animes, reading and lifting.
-- 🌱 Data Science enthusiast
+- 🌱 Data Engineering enthusiast
 
 <!---
 thoughtfuliv/thoughtfuliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
