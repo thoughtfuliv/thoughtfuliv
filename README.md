@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lívia! I'm a brazilian 23yo girl and an Industrial Engineer.
+- 👋 Hi, I’m Lívia! I'm a brazilian 22yo girl and an Industrial Engineer.
 - 👀 I’m interested in watching animes, reading and lifting.
 - 🌱 Data Engineering enthusiast
 
