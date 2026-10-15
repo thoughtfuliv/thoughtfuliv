@@ -12,9 +12,11 @@
 </div>
 
 
-## 🩷 About me
+## About me
 
 <img align="right" src="https://media.tenor.com/MEQ4Dg6IlUUAAAAM/gatinha-angela-angela.gif" width="220" alt="Angela waving"/>
+
+Hi, I'm Livia, 23 years old and an Industrial Engineer!!
 
 I'm a Mid Level Analytics Engineer at Bank BMG, building pipelines and data models that help people make better decisions.
 
@@ -40,10 +42,10 @@ I'm naturally curious, love reading and writing, and I'm always up for a good co
 
 ## Languages
 
-- <img src="https://flagcdn.com/w40/br.png" height="14" alt="Brazil"/> **Portuguese** &nbsp; ![Native](https://img.shields.io/badge/Native-F9A5AD?style=flat-square)
-- <img src="https://flagcdn.com/w40/us.png" height="14" alt="USA"/> **English** &nbsp; ![C1](https://img.shields.io/badge/C1-Advanced-F9A5AD?style=flat-square)
-- <img src="https://flagcdn.com/w40/es.png" height="14" alt="Spain"/> **Spanish** &nbsp; ![B2](https://img.shields.io/badge/B2-Upper--Intermediate-F9A5AD?style=flat-square)
-- <img src="https://flagcdn.com/w40/fr.png" height="14" alt="France"/> **French** &nbsp; ![A1](https://img.shields.io/badge/A1-Beginner-F9A5AD?style=flat-square)
+- **Portuguese** &nbsp; ![Native](https://img.shields.io/badge/Native-F9A5AD?style=flat-square)
+- **English** &nbsp; ![C1](https://img.shields.io/badge/C1-Advanced-F9A5AD?style=flat-square)
+- **Spanish** &nbsp; ![B2](https://img.shields.io/badge/B2-Upper--Intermediate-F9A5AD?style=flat-square)
+- **French** &nbsp; ![A1](https://img.shields.io/badge/A1-Beginner-F9A5AD?style=flat-square)
 
 
 ## GitHub stats
