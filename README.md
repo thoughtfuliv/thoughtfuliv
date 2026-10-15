@@ -22,10 +22,6 @@ I'm naturally curious, love reading and writing, and I'm always up for a good co
 
 📍 Ceará, Brazil
 
-🏦 Working with data at Banco BMG
-
-📚 Studying and practicing modern data engineering
-
 💬 Ask me about data, books, or writing
 <br clear="right"/>
 
@@ -44,6 +40,12 @@ I'm naturally curious, love reading and writing, and I'm always up for a good co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+---
+## 🗪 Languages
+Native Portuguese
+C1 English
+B2 Spanish
+A1 French
 
 ---
 
