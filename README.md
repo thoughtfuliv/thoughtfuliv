@@ -20,12 +20,9 @@ I'm a Mid Level Analytics Engineer at Bank BMG, building pipelines and data mode
 
 I'm naturally curious, love reading and writing, and I'm always up for a good conversation. I enjoy learning, exchanging ideas, and making the world of data a little less intimidating. 
 
-📍 Ceará, Brazil
-
-💬 Ask me about data, books, or writing
 <br clear="right"/>
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -40,16 +37,16 @@ I'm naturally curious, love reading and writing, and I'm always up for a good co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
----
-## 🗪 Languages
-Native Portuguese
-C1 English
-B2 Spanish
-A1 French
 
----
+## Languages
 
-## 📊 GitHub stats
+- <img src="https://flagcdn.com/w40/br.png" height="14" alt="Brazil"/> **Portuguese** &nbsp; ![Native](https://img.shields.io/badge/Native-F9A5AD?style=flat-square)
+- <img src="https://flagcdn.com/w40/us.png" height="14" alt="USA"/> **English** &nbsp; ![C1](https://img.shields.io/badge/C1-Advanced-F9A5AD?style=flat-square)
+- <img src="https://flagcdn.com/w40/es.png" height="14" alt="Spain"/> **Spanish** &nbsp; ![B2](https://img.shields.io/badge/B2-Upper--Intermediate-F9A5AD?style=flat-square)
+- <img src="https://flagcdn.com/w40/fr.png" height="14" alt="France"/> **French** &nbsp; ![A1](https://img.shields.io/badge/A1-Beginner-F9A5AD?style=flat-square)
+
+
+## GitHub stats
 
 <div align="center">
 
@@ -60,7 +57,7 @@ A1 French
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it does |
 |---|---|
@@ -68,9 +65,7 @@ A1 French
 | 🎬 **[Movies Pipeline](https://github.com/thoughtfuliv/Projeto_Ingestao_Moderna_Pipeline_Mflix)** | The project implements a batch pipeline to ingest the six collections from the `sample_mflix` database in MongoDB Atlas into Databricks Free Edition. The solution utilizes Unity Catalog, Auto Loader, and Delta tables, following a structure of Landing, Bronze, and Silver layers. |
 | 📰 **[Media Coverage Landscape Project](https://github.com/thoughtfuliv/Projeto_Panorama_da_Cobertura_Midiatica)** | Data Engineering pipeline for the collection, processing, and analysis of geopolitics-related content published on YouTube channels. The project implements an architecture utilizing Bronze, Silver, and Gold layers, enabling the transformation of raw data into analytical datasets ready for exploration through dashboards and trend analysis.|
 
----
-
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
 
